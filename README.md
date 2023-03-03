@@ -53,10 +53,10 @@ source env/bin/activate
 
 5.  Run the program:
 
-        ```python
+    ```python
 
-        python main.py
-        ```
+    python main.py
+    ```
 
     Usage
 
