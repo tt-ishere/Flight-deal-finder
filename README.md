@@ -1,7 +1,4 @@
 # Flight-deal-finder
-
-This is a Python project that helps users find flight deals by searching for the cheapest flights to their desired destination.
-
 This is a Python project that helps users find flight deals by searching for the cheapest flights to their desired destination.
 Features
 
